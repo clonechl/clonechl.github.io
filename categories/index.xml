@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Example Site</title>
+        <link>https://clonechl.github.io/categories/</link>
+        <description>Recent content in Categories on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://clonechl.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Animals</title>
+        <link>https://clonechl.github.io/categories/animals/</link>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/animals/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Nature</title>
+        <link>https://clonechl.github.io/categories/nature/</link>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/nature/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>https://clonechl.github.io/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://clonechl.github.io/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://clonechl.github.io/categories/test/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/test/</guid>
+        <description>&lt;img src="https://clonechl.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>Test With Whitespaces</title>
+        <link>https://clonechl.github.io/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Beauty</title>
+        <link>https://clonechl.github.io/categories/beauty/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/beauty/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Fashion</title>
+        <link>https://clonechl.github.io/categories/fashion/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://clonechl.github.io/categories/fashion/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
